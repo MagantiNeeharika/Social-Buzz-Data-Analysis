@@ -10,12 +10,12 @@ This Project is part of **Accenture Data Analytics and Visualization Virtual Exp
 - I have also prepared a PowerPoint Deck (**MS PowerPoint**) and Video Presentation to communicate key insights for the client and internal stakeholders.
 
 ### Objective/ Aim 
-Analyze the sample data sets with visualizations to understand and to find the top 5 popular Content Categories, which are determined based on the Reaction Scores as well as provide recommendations for a successful IPO.
+- Analyze the sample data sets with visualizations
+- Find the Top 5 Popular Content Categories (determined based on Reaction Scores)
+- Provide recommendations for a successful IPO.
 
 ### Links to Files
+- Data Source : [Forage](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
+- Presentation : [Social Buzz Presentation](https://docs.google.com/presentation/d/1OtPzkqFsX_CpSA3XPXa7uOI4jVpBlvHfBG0ybJvN0P8/edit?usp=sharing)
 
-### Analysis
-
-### Insights
-
-### Recommendations
+Insights, and Recommendations on this project can be seen in the PowerPoint presentation (Link provided in the ### Links to Files section)
