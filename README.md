@@ -18,4 +18,4 @@ This Project is part of **Accenture Data Analytics and Visualization Virtual Exp
 - Data Source : [Forage](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
 - Presentation : [Social Buzz Presentation](https://docs.google.com/presentation/d/1OtPzkqFsX_CpSA3XPXa7uOI4jVpBlvHfBG0ybJvN0P8/edit?usp=sharing)
 
-Insights, and Recommendations on this project can be seen in the PowerPoint presentation (Link provided in the ### Links to Files section)
+Insights, and Recommendations on this project can be seen in the PowerPoint presentation (Link provided in the **Links to Files** section)
